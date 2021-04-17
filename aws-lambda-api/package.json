@@ -4,7 +4,7 @@
   "description": "",
   "main": "handler.js",
   "scripts": {
-    "invoke": "sls invoke local -f postPeople",
+    "invoke": "sls invoke local -f getPeople",
     "deploy": "sls deploy --stage dev --verbose"
   },
   "keywords": [],
